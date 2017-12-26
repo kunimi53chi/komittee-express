@@ -3,6 +3,7 @@ languageCode = "ja"
 title = "Komittee Express"
 theme = "hugo_theme_robust"
 hasCJKLanguage = true
+enableGitInfo = true
 
 [params]
   description = "ITエンジニアと演奏家の、二足の草鞋を履こうとする男のブログ"

@@ -39,6 +39,7 @@ date: 2017-12-26T19:06:07+09:00
 8. さて本番リポジトリはどこをビルド起点にすればいいやら。テストと同じでいいのか調べる
 9. Themeを[Tranquilpeak](https://themes.gohugo.io/hugo-tranquilpeak-theme/)に
     - うまくいかなかったので[Robust](https://themes.gohugo.io/robust/)に変更した
+10. [ここ](http://blog.zzzmisa.com/customize_hugo_theme/)などを参考にしてプロフィールや更新日表示など追加した
 
 ## 本番環境構築ログ
 
