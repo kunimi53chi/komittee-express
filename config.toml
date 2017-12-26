@@ -9,7 +9,7 @@ enableGitInfo = true
   description = "ITエンジニアと演奏家の、二足の草鞋を履こうとする男のブログ"
 
 [taxonomies]
-  tag = "tags"
+  tag = "Tags"
 
 [params.author]
   thumbnail = "images/author.jpg"
