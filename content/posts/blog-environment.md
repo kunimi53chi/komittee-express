@@ -40,6 +40,7 @@ draft: false
 8. さて本番リポジトリはどこをビルド起点にすればいいやら。テストと同じでいいのか調べる
 9. Themeを[Tranquilpeak](https://themes.gohugo.io/hugo-tranquilpeak-theme/)に
 10. Netlify CMSはもうちょい先かなぁ。
+11. 本番環境スタートさせたけどブログ記事がでてこない。
 
 ## 本番環境構築ログ
 
