@@ -1,10 +1,9 @@
 ---
-title: "ブログ環境について"
+title: "ブログ構築しました"
 date: 2017-12-26T19:06:07+09:00
-draft: false
 ---
 
-初投稿です。当ブログはHugo+Netlifyで作成しています。テーマは「[Tranquilpeak](https://themes.gohugo.io/hugo-tranquilpeak-theme/)」です。
+初投稿です。当ブログはHugo+Netlifyで作成しています。テーマは「[Robust](https://themes.gohugo.io/robust/)」です。
 
 ## 風呂でスマホいじりながら考えたブログタイトル
 
@@ -39,8 +38,7 @@ draft: false
 7. HTTPS化を試みる。...というか自動作成してくれたアドレスがすでにSSL有効だった。Netlify神かよ。
 8. さて本番リポジトリはどこをビルド起点にすればいいやら。テストと同じでいいのか調べる
 9. Themeを[Tranquilpeak](https://themes.gohugo.io/hugo-tranquilpeak-theme/)に
-10. Netlify CMSはもうちょい先かなぁ。
-11. 本番環境スタートさせたけどブログ記事がでてこない。
+    - うまくいかなかったので[Robust](https://themes.gohugo.io/robust/)に変更した
 
 ## 本番環境構築ログ
 
@@ -135,6 +133,90 @@ value=0.31.1
 // サイトの名前を"komittee-express"に変更。config.tomlのbaseURLをNetlifyで生成されたURLに変更。
 
 ```
+
+## postsが表示されない問題
+
+`$ hugo -t hugo-tranquilpeak-theme` でbuildしてて、`public/`も出せてそうな感じなのに全然記事がでてこない。おもむろにNetlifyのDeploy logを貼る。
+
+```
+9:45:08 PM: Build ready to start
+9:45:08 PM: Fetching cached dependencies
+9:45:09 PM: No cached dependencies found. Cloning fresh repo
+9:45:09 PM: git clone git@github.com:kunimi53chi/komittee-express
+9:45:10 PM: git remote rm origin
+9:45:10 PM: Preparing Git Reference refs/heads/master
+9:45:11 PM: Running build command: hugo -t hugo-tranquilpeak-theme
+9:45:13 PM: Downloading and installing node v6.12.2...
+9:45:13 PM: Downloading https://nodejs.org/dist/v6.12.2/node-v6.12.2-linux-x64.tar.xz...
+9:45:14 PM:
+                                                                           0.0%
+9:45:14 PM:
+                                                                           1.1%
+9:45:14 PM:
+###
+9:45:14 PM:
+9:45:14 PM:  4.9%
+9:45:14 PM:
+##############
+9:45:14 PM:
+9:45:14 PM: 19.8
+9:45:14 PM: %
+9:45:15 PM:
+##############################                                            4
+9:45:15 PM: 2.1
+9:45:15 PM: %
+9:45:15 PM:
+##########################################                                59.4%
+9:45:15 PM:
+9:45:15 PM: ##
+9:45:15 PM: ##
+9:45:15 PM: ##
+9:45:15 PM: ##
+9:45:15 PM: ##
+9:45:15 PM: ####
+9:45:15 PM: #
+9:45:15 PM: #
+9:45:15 PM: ##
+9:45:15 PM: ###############################################
+9:45:16 PM:  91.1%
+9:45:16 PM:
+######################################################################## 100.0%
+9:45:16 PM:
+9:45:16 PM: Computing checksum with sha256sum
+9:45:16 PM: Checksums matched!
+9:45:17 PM: Now using node v6.12.2 (npm v3.10.10)
+9:45:17 PM: Using version v6.12.2 of node
+9:45:17 PM: Using /opt/buildhome/.rvm/gems/ruby-2.1.2
+9:45:17 PM: Installing Hugo 0.31.1
+9:45:20 PM: Started building sites ...
+9:45:20 PM:
+Built site for language en:
+0 draft content
+0 future content
+0 expired content
+1 regular pages created
+8 other pages created
+9:45:21 PM: 0 non-page files copied
+0 paginator pages created
+0 tags created
+0 categories created
+total in 22 ms
+9:45:21 PM: Build complete: exit code: 0
+9:45:21 PM: Cleaning up docker container
+9:45:21 PM: Starting to deploy site from 'public/'
+9:45:22 PM: Deploying to CDN
+9:45:24 PM: Starting post processing
+9:45:24 PM: Post processing done
+9:45:24 PM: Site is live
+```
+
+HugoのQuick Startと見比べてみると `0 paginator pages created` となっているのがな～んか怪しい。ローカルでも同じような状態になっている。
+
+テーマを変えてみようか... Robustが日本人制作のテーマということで入れてみる。
+
+`$ git clone https://github.com/dim0627/hugo_theme_robust.git`
+
+...表示された！まさかThemeがあっていなかったとは思わなんだ。コード挿入箇所が見づらいけどなんとかしたい。
 
 ## 参考記事
 

@@ -1,3 +1,4 @@
 baseURL = "https://komittee-express.netlify.com/"
 languageCode = "ja"
 title = "Komittee Express"
+theme = "hugo_theme_robust"
