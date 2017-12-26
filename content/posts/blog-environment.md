@@ -83,7 +83,56 @@ D:\Dropbox\Hugo\Sites\Komittee-Express\themes>cd ../
 D:\Dropbox\Hugo\Sites\Komittee-Express>hugo new posts/blog-environment.md
 D:\Dropbox\Hugo\Sites\Komittee-Express\content\posts\blog-environment.md created
 
-D:\Dropbox\Hugo\Sites\Komittee-Express>
+// GitHub連携
+
+D:\Dropbox\Hugo\Sites\Komittee-Express>git init
+Initialized empty Git repository in /cygdrive/d/Dropbox/Hugo/Sites/Komittee-Express/.git/
+
+D:\Dropbox\Hugo\Sites\Komittee-Express>touch .gitignore
+
+D:\Dropbox\Hugo\Sites\Komittee-Express>cd themes
+
+D:\Dropbox\Hugo\Sites\Komittee-Express\themes>ls
+hugo-tranquilpeak-theme
+
+D:\Dropbox\Hugo\Sites\Komittee-Express\themes>rm -rf hugo-tranquilpeak-theme/.git
+
+D:\Dropbox\Hugo\Sites\Komittee-Express\themes>d:
+
+D:\Dropbox\Hugo\Sites\Komittee-Express\themes>cd d:\
+
+d:\>pwd
+/cygdrive/d
+
+d:\>cd D:\Dropbox\Hugo\Sites\Komittee-Express
+
+D:\Dropbox\Hugo\Sites\komittee-express>git remote add origin https://github.com/kunimi53chi/komittee-express.git
+
+D:\Dropbox\Hugo\Sites\komittee-express>
+
+// GitKrakenからプッシュ。GitHub連携および公開が完了。
+// ここからNetlify上で設定する。
+
+```
+
+```
+// Netlify
+
+## Deploy settings
+
+Repository: https://github.com/kunimi53chi/komittee-express
+Build command: hugo --theme=hugo-tranquilpeak-theme
+Publish directory: public/
+Production branch: master
+Branch deploys: Deploy only the production branch and its deploy previews
+
+## Build environment variables
+
+key=HUGO_VERSION
+value=0.31.1
+
+// サイトの名前を"komittee-express"に変更。config.tomlのbaseURLをNetlifyで生成されたURLに変更。
+
 ```
 
 ## 参考記事
