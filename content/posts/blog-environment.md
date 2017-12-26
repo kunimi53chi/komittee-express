@@ -214,7 +214,7 @@ total in 22 ms
 
 HugoのQuick Startと見比べてみると `0 paginator pages created` となっているのがな～んか怪しい。ローカルでも同じような状態になっている。
 
-テーマを変えてみようか... Robustが日本人制作のテーマということで入れてみる。
+テーマを変えてみようか...　 Robustが日本人制作のテーマということで入れてみる。
 
 `$ git clone https://github.com/dim0627/hugo_theme_robust.git`
 
