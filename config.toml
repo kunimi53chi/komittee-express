@@ -3,3 +3,13 @@ languageCode = "ja"
 title = "Komittee Express"
 theme = "hugo_theme_robust"
 hasCJKLanguage = true
+
+[params]
+  description = "ITエンジニアと演奏家の、二足の草鞋を履こうとする男のブログ"
+
+[params.author]
+  thumbnail = "images/author.jpg"
+  name = "国見 小道"
+  description = "<p>フリーランス1年生</p>"
+  twitter = "https://twitter.com/kunimi_komichi"
+  github = "https://github.com/kunimi53chi"
