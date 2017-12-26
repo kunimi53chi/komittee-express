@@ -12,7 +12,7 @@ hasCJKLanguage = true
 
 [params.author]
   thumbnail = "images/author.jpg"
-  name = "国見 小道"
+  name = "国見小道"
   description = "<p>フリーランス1年生</p>"
   twitter = "https://twitter.com/kunimi_komichi"
   github = "https://github.com/kunimi53chi"
