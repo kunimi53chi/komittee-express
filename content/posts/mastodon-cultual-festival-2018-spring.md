@@ -14,7 +14,7 @@ tags: [ "Mastodon", "Music" ]
 
 僕が一番言いたかったことについてはこのトゥートにまとまっています。500字でまとめきれなかった部分についてこの記事でフォローしていきます。
 
-<iframe src="src="https://mstdn.nere9.help/@kunimi_komichi/99977301491934856/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400"></iframe><script src="src="https://mstdn.nere9.help/embed.js" async="async"></script>
+<iframe src="https://mstdn.nere9.help/@kunimi_komichi/99977301491934856/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400"></iframe><script src="https://mstdn.nere9.help/embed.js" async="async"></script>
 
 ちなみに各演者のレビューなどは僕はステージ登壇者なのでできません。だれかやれ。
 
