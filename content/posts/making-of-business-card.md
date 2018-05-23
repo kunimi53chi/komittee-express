@@ -3,7 +3,7 @@ title: "サークル用名刺を作った話"
 date: 2018-05-14T02:28:27+09:00
 draft: false
 thumbnail: "images/making-of-business-card/meisi_omote.png"
-tags: [ "LifeHack", "#ノンデザ20周年" ]
+tags: [ "LifeHack", "ノンデザ20周年" ]
 ---
 
 初めて同人即売会に出展して色々経験を得られました。メイン戦場であった、[**音源作成については前回書きました。**]({{< ref "m3-2018-spring.md" >}}) 今回は、サークル活動ではなくてはならないもの、「名刺」を作った話をします。
