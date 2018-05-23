@@ -1,7 +1,7 @@
 ---
 title: "サークル用名刺を作った話"
 date: 2018-05-14T02:28:27+09:00
-draft: true
+draft: false
 thumbnail: "images/making-of-business-card/meisi_omote.png"
 tags: [ "LifeHack", "#ノンデザ20周年" ]
 ---
