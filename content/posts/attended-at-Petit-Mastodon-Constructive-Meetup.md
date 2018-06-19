@@ -7,7 +7,7 @@ draft: false
 
 どうも、国見小道です。先日、[**おひとりさまインスタンスを立てました**](https://mstdn.komittee.net/) ので、ぜひリモートフォローをお願いいたします。
 
-さて、[**Mastodonユーザー発のイベント、「Mastodon Constructive Meetup」**](https://connpass.com/event/84743/) に行ってきました。4名のLTを聞いて、気になったトピックや総合して今後のMastodonで大事になってきそうなことをざっくりと書いていきたいと思います。
+さて、[**Mastodonユーザー発のイベント、「Petit Mastodon Constructive Meetup」**](https://connpass.com/event/84743/) に行ってきました。4名のLTを聞いて、気になったトピックや総合して今後のMastodonで大事になってきそうなことをざっくりと書いていきたいと思います。
 
 実況用ハッシュタグが用意されており、現場で聞いてた人や生放送で聞いていた人は「mastodon_meetup」タグで実況を行っていました。以下のハッシュタグより参照できます。さほど量はないので、サクッと読み切れるはずです。
 
