@@ -122,6 +122,6 @@ Usersと、期間指定を年に広げれば着実に増加しているという
 
 ### ところで、夏コミ（C94）に受かりました。
 
-{{< figure src="/images/attended-at-Petit-Mastodon-Constructive-Meetup/c94.jpg" title="switter.atのユーザー/トゥート数推移（90日間）" class="center" >}}
+{{< figure src="/images/attended-at-Petit-Mastodon-Constructive-Meetup/c94.jpg" title="ぼくのC94配置" class="center" >}}
 
 **金曜日、東メ03でお待ちしております！！！！**
