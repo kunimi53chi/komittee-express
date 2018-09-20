@@ -4,6 +4,7 @@ date: 2017-12-27T00:23:04+09:00
 draft: false
 thumbnail: "images/twitter_suspended/凍結戦だ.jpg"
 tags: [ "Twitter" ]
+toc: true
 ---
 
 ブログを立ち上げていの一番に書きたかった記事。この記事が凍結を解除するための足掛かりとなることを信じて。

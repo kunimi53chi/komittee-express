@@ -3,6 +3,7 @@ title: "分散化されたコミュニティの醸成が見えてきた～Petit 
 date: 2018-06-17T22:02:48+09:00
 tags: [ "Mastodon" ]
 draft: false
+toc: true
 ---
 
 どうも、国見小道です。先日、[**おひとりさまインスタンスを立てました**](https://mstdn.komittee.net/) ので、ぜひリモートフォローをお願いいたします。

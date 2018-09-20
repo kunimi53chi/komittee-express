@@ -4,6 +4,7 @@ date: 2018-05-07T22:22:35+09:00
 draft: false
 thumbnail: "images/mastodon-cultual-festival-2018-spring/festa_logo.png"
 tags: [ "Mastodon", "Music" ]
+toc: true
 ---
 
 分散型SNS「Mastodon」のユーザーによるイベント、「マストドン文化祭」が2018/05/05に催されました。[開催概要はこちら](http://bunkasai.sasachi.tokyo/) です。僕はステージ演者としてこのイベントの開催に関わりました。かなり色々ありましたが、結果から言えば大成功に終わったと思います。

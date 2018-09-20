@@ -2,6 +2,7 @@
 title: "ブログ構築しました"
 date: 2017-12-26T19:06:07+09:00
 tags: [ "Hugo", "Netlify" ]
+toc: true
 ---
 
 初投稿です。当ブログはHugo+Netlifyで作成しています。テーマは「[Robust](https://themes.gohugo.io/robust/)」です。
