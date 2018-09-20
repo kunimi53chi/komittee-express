@@ -11,6 +11,43 @@ toc: true
 
 （サムネイルの元ネタは[こちら。](https://twitter.com/Thukawa/status/941914366210797568)）
 
+## 2018/09/20 記事更新
+
+今年度で、実際にTwitterJPに凸した方の意見を聞くことができ、僕が凸した時と状況が変わっていることがわかった。なので、この記事に新しく2項目追加する。
+
+- 現在のTwitterJP社凸の流れ
+- 内容証明郵便による凍結解除事例
+
+### 現在のTwitterJP社凸の流れ
+
+以前は、「Case番号を控え->TwitterJP社がある京橋の東京スクエアガーデン3階の「オフィスロビー」に行き->TwitterJP社員が用紙を持って現れ->異議申し立て用紙に異議を書き->社員が用紙を本社に流し->凍結解除できた」という流れだった（下の「TwitterJP本社に到着してからの流れ」を参照）。しかし、現在は **「オフィスロビー受付に行き->受付嬢に異議申し立て用紙を渡され->用紙に記入し->受付に用紙を渡す」** という流れになっているようだ。
+
+確かに社員が下りてきて用紙記入に付き添っていただくのは大変非効率であるとは思ったが、「直接Twitter本社へのアプローチをしていただけそうだ」という期待感はあった。ただ、より効率化を求めてか、社員は下りて来なくなってしまい、お気持ち的には不安が強くなってしまった。
+
+### 内容証明郵便による凍結解除事例
+
+地方にお住いの大多数の日本の鳥の民に朗報である。内容証明郵便による異議申し立てを行い、凍結解除を勝ち取った例が現れた。詳しくは以下4ツイートを読んでほしい。
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">(1/4)ツイッターアカウント凍結から凍結解除までの流れ<br>・平成29年12月1日頃、本アカウントが凍結される。<br>・ツイッター公式ヘルプページより、案内にそって異議申立を行う。<br>・&quot;暴力や脅迫を奨励するコンテンツを投稿しているため、凍結は永久に解除出来ない&quot;と返答が来る。(続く)</p>&mdash; あそっく🍼(100％オフ) (@asock9562) <a href="https://twitter.com/asock9562/status/961185124816535552?ref_src=twsrc%5Etfw">2018年2月7日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="ja" dir="ltr">(2/4)ツイッターアカウント凍結から凍結解除までの流れ <br>・数度、ヘルプページより&quot;当該ツイートがあれば明示いただきたいこと&quot;をお願いする。<br>・いずれも、テンプレート回答があるばかりで、回答を機械的なツールで行っているのではないかと懸念が生まれる(続く)</p>&mdash; あそっく🍼(100％オフ) (@asock9562) <a href="https://twitter.com/asock9562/status/961185358053429248?ref_src=twsrc%5Etfw">2018年2月7日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="ja" dir="ltr">(3/4)ツイッターアカウント凍結から凍結解除までの流れ<br>・凍結処理も機械的処理ではないかと思い、異議申立を確認頂きたく、内容証明郵便で連絡を行う。(平成30年2月3日頃)<br>・平成30年2月6日凍結解除処置が行われアカウントが運用できるようになる。(続く)</p>&mdash; あそっく🍼(100％オフ) (@asock9562) <a href="https://twitter.com/asock9562/status/961185731023532038?ref_src=twsrc%5Etfw">2018年2月7日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-conversation="none" data-cards="hidden" data-lang="ja"><p lang="ja" dir="ltr">(4/4)ツイッターアカウント凍結から凍結解除までの流れ<br>という流れでした。そのと際送った文面は添付のような内容でした。正規の文体になっているかは自信がないですが……<br>みんなも凍結には気をつけよう！　あそっくさんとの約束だ！ <a href="https://t.co/toZZA7ucy5">pic.twitter.com/toZZA7ucy5</a></p>&mdash; あそっく🍼(100％オフ) (@asock9562) <a href="https://twitter.com/asock9562/status/961185910011252737?ref_src=twsrc%5Etfw">2018年2月7日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+ただし、この成功例も2018年2月のものだ。ポリシー改定などがあり、現在も効果があるかはわからない。それでも、**わざわざ飛行機や新幹線にのって現在のTwitterJP社への凸を行って、受付で紙書かされて帰るだけのお仕事をするよりは、内容証明郵便によるアプローチで勝負したほうが金銭的にも時間的にもお得である。** 東京都にお住みでない方々は内容証明郵便ルートでチャレンジしてみよう。
+
+（以下、2018/09/20以前の記事）
+
+-----
+
 ## お話しすること
 
 - ぼくの凍結についての時系列
@@ -187,7 +224,7 @@ TwitterJPの社員さんから「どのような内容を書いたらいいで�
 
 ### TwitterJP本社に到着してからの流れ
 
-2017/12/19 15時頃に京橋の東京スクエアガーデン3階の「オフィスロビー」に到着。受付にTwitterJP本社にに用がある旨を伝えると、**受付のお姉さんから「アカウント凍結の件でしょうか」と返された。** この回答だけで察した。**凍結解除のために凸する人間の多さを。**　
+2017/12/19 15時頃に京橋の東京スクエアガーデン3階の「オフィスロビー」に到着。受付にTwitterJP本社に用がある旨を伝えると、**受付のお姉さんから「アカウント凍結の件でしょうか」と返された。** この回答だけで察した。**凍結解除のために凸する人間の多さを。**　
 
 そのまま、受付のお姉さんからTwitterJPの受付に要件を伝えてもらったところ、**TwitterJPの社員さんが降りてきた。** 社員さんはレポートを1枚持ってきて、その紙に本名、メールアドレス、凍結したアカウント、異議申し立ての際のCase番号、異議申し立ての事情説明、追加情報を書き、社員さんにお渡しした。**レポートの内容はアメリカのツイッター本社ユーザーサポートに届けられるという。**
 
