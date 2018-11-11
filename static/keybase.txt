@@ -4,7 +4,7 @@ https://keybase.io/kunimi_komichi
 
 I hereby claim:
 
-  * I am an admin of https://komittee-express.netlify.com
+  * I am an admin of https://express.komittee.net
   * I am kunimi_komichi (https://keybase.io/kunimi_komichi) on keybase.
   * I have a public key ASDNtils75m8XCNVIgdQl_nCIEXGjq-MB85IVOnwVN3iLAo
 
@@ -20,32 +20,33 @@ To do so, I am signing this object:
       "username": "kunimi_komichi"
     },
     "merkle_root": {
-      "ctime": 1517492030,
-      "hash": "f4185dcad6681f422fce991036fb1b4c3594b754990a14deb81ec5e5ff89c3630edcd462e9d2f0cad3e9d88fb3f4a33f65a5435d75daf24b4c410fd950d6ac10",
-      "hash_meta": "749f9ded729eb267db03fc4877498ac256b183811b9c07d3ccc72c6a251284d1",
-      "seqno": 2015692
+      "ctime": 1541912921,
+      "hash": "851a9a8cef7afbfe053995bf9df417a95ff8a05d6ef40e6d41026fb61bf186b2e85fa0393c62b0014c448fb3e0c078421d4b2887673630a2e988b1c931a81ded",
+      "hash_meta": "492407909d5dd2e343b60036df1362d7c5c8a5c9e9093aaf7e2e746a8cd7a0f8",
+      "seqno": 3933857
     },
     "service": {
-      "hostname": "komittee-express.netlify.com",
+      "entropy": "DEhVU8j6aZdehA9N+iRkUS5N",
+      "hostname": "express.komittee.net",
       "protocol": "https:"
     },
     "type": "web_service_binding",
-    "version": 1
+    "version": 2
   },
   "client": {
     "name": "keybase.io go client",
-    "version": "1.0.40"
+    "version": "2.9.0"
   },
-  "ctime": 1517492188,
+  "ctime": 1541912945,
   "expire_in": 504576000,
-  "prev": "2a8c8dd3b220eb814a1fe6df685fea92cf507d7cfc56737cfd7be97aab3a1f08",
-  "seqno": 12,
+  "prev": "1bcb8f2722c9a1aa7464993bcd028b0511c5dc3d98a2c52b4bae8fc0bcde9c46",
+  "seqno": 31,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgzbYpbO+ZvFwjVSIHUJf5wiBFxo6vjAfOSFTp8FTd4iwKp3BheWxvYWTFA1t7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwOWQ4YzVkOWRmODkwYmJiNWIxYTJkYTc5YTc0ZDYyNzczNDlkMWUzMjg3ZmY3NmM0M2I5OTZmNTdmN2Q3NzhkODBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwY2RiNjI5NmNlZjk5YmM1YzIzNTUyMjA3NTA5N2Y5YzIyMDQ1YzY4ZWFmOGMwN2NlNDg1NGU5ZjA1NGRkZTIyYzBhIiwidWlkIjoiZDExMzdmMzIyMjBlMjE0MzU2NWRhZTM3YjE5MTRiMTkiLCJ1c2VybmFtZSI6Imt1bmltaV9rb21pY2hpIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTE3NDkyMDMwLCJoYXNoIjoiZjQxODVkY2FkNjY4MWY0MjJmY2U5OTEwMzZmYjFiNGMzNTk0Yjc1NDk5MGExNGRlYjgxZWM1ZTVmZjg5YzM2MzBlZGNkNDYyZTlkMmYwY2FkM2U5ZDg4ZmIzZjRhMzNmNjVhNTQzNWQ3NWRhZjI0YjRjNDEwZmQ5NTBkNmFjMTAiLCJoYXNoX21ldGEiOiI3NDlmOWRlZDcyOWViMjY3ZGIwM2ZjNDg3NzQ5OGFjMjU2YjE4MzgxMWI5YzA3ZDNjY2M3MmM2YTI1MTI4NGQxIiwic2Vxbm8iOjIwMTU2OTJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoia29taXR0ZWUtZXhwcmVzcy5uZXRsaWZ5LmNvbSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjQwIn0sImN0aW1lIjoxNTE3NDkyMTg4LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjJhOGM4ZGQzYjIyMGViODE0YTFmZTZkZjY4NWZlYTkyY2Y1MDdkN2NmYzU2NzM3Y2ZkN2JlOTdhYWIzYTFmMDgiLCJzZXFubyI6MTIsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAPEFW0CIuF/rTrcVs1MK16zs3bAGUDDe+GcO6zOrQi3sSSuyPfQF99IioOMekvir55lDs9tPmV1mPY9DcTiTtBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIWL8ksWumKgAQi47L5SHNBQnbijpG3fnExQWt0sKNUxo3RhZ80CAqd2ZXJzaW9uAQ==
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgzbYpbO+ZvFwjVSIHUJf5wiBFxo6vjAfOSFTp8FTd4iwKp3BheWxvYWTESpcCH8QgG8uPJyLJoap0ZJk7zQKLBRHF3D2YosUrS66PwLzenEbEIDZXXzjYvVOJPuiilpSLTcXX0m/OeQdhbWX0Bt5luEalAgHCo3NpZ8RARYcGWuBz2n1o6OrqIKEPkW/5WPwmsBR6IjkGJKr+FqCxNA1gat5bUQUIiBgAaM4gkFWxDxUmbrvYYPev20MwBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEII1fFT5oW6FPT25FZytbyPhEiTD9kZhfPM5iZUwlGmKro3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
