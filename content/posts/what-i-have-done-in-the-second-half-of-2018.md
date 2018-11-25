@@ -1,7 +1,7 @@
 ---
 title: "2018年下半期でやってたこと"
 date: 2018-11-20T21:56:14+09:00
-tags: [ "" ]
+tags: [ "diary" ]
 draft: false
 toc: true
 ---
