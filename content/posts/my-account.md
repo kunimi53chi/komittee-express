@@ -12,7 +12,7 @@ toc: true
 
 ### Twitter (Read & Write)
 
-TwitterSupportが正気を取り戻すまで更新頻度を極度に下げております。主に宣伝。
+Twitterは幸福が義務であるサービスに成り下がったため、宣伝率90%でお送りします。
 
 - 個人用: [@kunimi_komichi](https://twitter.com/kunimi_komichi)
 - サークル用: [@circleblowing](https://twitter.com/circleblowing)
@@ -21,11 +21,10 @@ TwitterSupportが正気を取り戻すまで更新頻度を極度に下げてお
 
 ほぼ毎日どこかしらにいます。
 
-- 小学生並雑談: [@kunimi_komichi@mstdn.jp](https://mstdn.jp/@kunimi_komichi/)
-- エンジニア雑談: [@kunimi_komichi@mstdn.nere9.help](https://mstdn.nere9.help/@kunimi_komichi/)
+- **メイン（Kunimi's Mastodon）: [@kunimi_komichi@mstdn.komittee.net](https://mstdn.komittee.net/@kunimi_komichi)**
+- サブ: [@kunimi_komichi@mstdn.nere9.help](https://mstdn.nere9.help/@kunimi_komichi/)
 - 音楽雑談用: [@kunimi_komichi@otoya.space](https://otoya.space/@kunimi_komichi)
 - 艦これ雑談: [@kunimi_komichi@kancolle.social](https://kancolle.social/@kunimi_komichi/)
-- 艦これ攻略: [@kunimi_komichi@recode.macro.tokyo](https://recode.macro.tokyo/@kunimi_komichi/)
 
 ### Mastodon (Read)
 
@@ -45,5 +44,6 @@ TwitterSupportが正気を取り戻すまで更新頻度を極度に下げてお
 - [ニコニコ動画コミュニティ](http://com.nicovideo.jp/community/co2291982)
 - [Gmail](kunimi25live@gmail.com)
 - [Mixi](http://mixi.jp/show_profile.pl?id=65392267&level=4)
+- [サウナイキタイ](https://sauna-ikitai.com/saunners/2516)
 
 また増えたら適宜更新します。
