@@ -2,7 +2,7 @@
 title: "インターネット蟹工船に乗って楽しかったこと"
 date: 2018-12-01T09:49:59+09:00
 thumbnail: "images/fun-about-taking-the-internet-nere9-fishing-boat/20180505_112623.jpg"
-tags: [ "mastodon" ]
+tags: [ "mastodon", "distributed_sns" ]
 draft: false
 toc: true
 ---
