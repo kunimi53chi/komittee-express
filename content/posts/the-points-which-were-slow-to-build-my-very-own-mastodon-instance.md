@@ -1,6 +1,6 @@
 ---
 title: "おひとりさまMastodonを建てるときに引っかかったポイント"
-date: 2018-12-16T09:43:26+09:00
+date: 2018-12-22T23:43:26+09:00
 tags: [ "mastodon", "aws", "docker" ]
 draft: false
 toc: true
