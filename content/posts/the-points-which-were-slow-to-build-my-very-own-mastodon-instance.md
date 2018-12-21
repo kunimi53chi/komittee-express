@@ -3,7 +3,7 @@ title: "おひとりさまMastodonを建てるときに引っかかったポイ�
 date: 2018-12-16T09:43:26+09:00
 thumbnail: "images/any-article-name/any-picture.png"
 tags: [ "mastodon", "aws", "docker" ]
-draft: true
+draft: false
 toc: true
 ---
 
