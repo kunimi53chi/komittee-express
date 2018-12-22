@@ -1,7 +1,7 @@
 ---
 title: "艦これJazzAt日本武道館に伊東たけしさんが出演すると聞いて物理的に振動しています"
 date: 2018-12-22T14:05:30+09:00
-thumbnail: "images/any-article-name/any-picture.png"
+thumbnail: "images/the-impact-of-participation-of-mr-takeshi-ito-who-gets-in-kancolle-jazz-concert/20181222_214307.jpg"
 tags: [ "kancolle", "jazz", "bigband" ]
 draft: false
 toc: true
