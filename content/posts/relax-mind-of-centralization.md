@@ -2,7 +2,7 @@
 title: "【全然かけてないよ】自分の気持ちをラクにする「中央集権」の考え方"
 date: 2018-12-25T00:00:00+09:00
 tags: [ "" ]
-draft: true
+draft: false
 toc: true
 ---
 
