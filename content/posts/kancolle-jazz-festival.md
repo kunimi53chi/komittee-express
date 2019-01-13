@@ -193,7 +193,7 @@ ToshIさん自体がとてもストレートに会場に響き渡る声質をし
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">ちょっとだけょ <a href="https://twitter.com/hashtag/%E8%89%A6%E3%81%93%E3%82%8C?src=hash&amp;ref_src=twsrc%5Etfw">#艦これ</a> <a href="https://twitter.com/hashtag/%E8%89%A6%E3%81%93%E3%82%8Cjazz?src=hash&amp;ref_src=twsrc%5Etfw">#艦これjazz</a> <a href="https://twitter.com/hashtag/%E6%88%BB%E3%82%8C%E3%81%AA%E3%81%84%E3%81%AE?src=hash&amp;ref_src=twsrc%5Etfw">#戻れないの</a> <a href="https://twitter.com/hashtag/%E6%AD%A6%E9%81%93%E9%A4%A8?src=hash&amp;ref_src=twsrc%5Etfw">#武道館</a> みんな最高ダ〜‼️ <a href="https://t.co/AQWbfFLHdO">pic.twitter.com/AQWbfFLHdO</a></p>&mdash; 龍玄とし (@Toshlofficial) <a href="https://twitter.com/Toshlofficial/status/1081164039760179200?ref_src=twsrc%5Etfw">2019年1月4日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-ToshIさんの煽りの後、会場からのレスポンスの厚さが大変なことになってる。**もはや壁レスポンスだよ。ぬりかべが武道館を平行にならんで襲い掛かってくるような状態だよ。 ** 転がす系モニタースピーカーとかたぶんあまり使ってないようで、ドラムとソリストの返しぐらいしかろくに録音してるデバイスに入らないなってことが分かった後、コールアンドレスポンスで降りかかる「壁」。なんなんだこれ。こんなんプロ目指したくなっちゃうだろ、ドームで演奏したくなっちゃうだろ...！いやさいたまソニックシティホールで演奏したことはあるけどさ、コンクールである以上こうはならんかったよ。なんだこれ！なんだこれ！！たった30秒の動画なのに「白熱」を余すことなく伝えてくれる動画。最高かよ…
+ToshIさんの煽りの後、会場からのレスポンスの厚さが大変なことになってる。**もはや壁レスポンスだよ。ぬりかべが武道館を平行にならんで襲い掛かってくるような状態だよ。** 転がす系モニタースピーカーとかたぶんあまり使ってないようで、ドラムとソリストの返しぐらいしかろくに録音してるデバイスに入らないなってことが分かった後、コールアンドレスポンスで降りかかる「壁」。なんなんだこれ。こんなんプロ目指したくなっちゃうだろ、ドームで演奏したくなっちゃうだろ...！いやさいたまソニックシティホールで演奏したことはあるけどさ、コンクールである以上こうはならんかったよ。なんだこれ！なんだこれ！！たった30秒の動画なのに「白熱」を余すことなく伝えてくれる動画。最高かよ…
 
 ---
 
