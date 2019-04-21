@@ -225,11 +225,13 @@ AWSは様々なサービスを取り揃えております。VPSでのサーバ�
 
 僕がAWSのコストカットについて唸っていたとき、[ヒドロさん](https://v1x3n.net/@OH)が珠玉のトゥートを投げてくださいました。
 
-<iframe src="https://v1x3n.net/@OH/101119499152272071/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400"></iframe>undefined<script src="https://v1x3n.net/embed.js" async="async"></script>
+<iframe src="https://v1x3n.net/@OH/101119499152272071/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400"></iframe><script src="https://v1x3n.net/embed.js" async="async"></script>
 
 そこから、スポットインスタンスやリザーブドインスタンスという概念についてざっくりと調べて、以下の仮説を立てました。
 
-<iframe src="https://mstdn.komittee.net/@kunimi_komichi/101119608669656201/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400"></iframe>undefined<script src="https://mstdn.komittee.net/embed.js" async="async"></script>
+> 順序としてはec2（t3.small）にスポットインスタンス、rds（t2.micro）にリザーブド1年払いの一部前払いで安くして、さらにDNSフェイルオーバーとAWSシステムマネージャーのコンボで睡眠時・マストドン見れないときにインスタンス停止する（HTL復旧時間見据えて復旧する）というダイナミック躁鬱おひとりさまインスタンスができるってわけ
+
+<iframe src="https://mstdn.komittee.net/@kunimi_komichi/101119608669656201/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400"></iframe><script src="https://mstdn.komittee.net/embed.js" async="async"></script>
 
 スポットインスタンスやリザーブドインスタンスについての詳しい説明はここでは省きますが、要は制約が付くがその分安くなるというものです。さらに、就寝時や仕事時など、SNSを見れない時間帯はサーバーを動かすのは無駄なので、**落とします（これができるのが "おひとりさま" インスタンスの長所）**。
 

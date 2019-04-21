@@ -1,7 +1,7 @@
 ---
 title: "おひとりさまMastodonを建てるときに引っかかったポイント"
 date: 2018-12-21T23:43:26+09:00
-tags: [ "mastodon", "aws", "docker" ]
+tags: [ "distributed_sns", mastodon", "aws", "docker" ]
 draft: false
 toc: true
 ---
