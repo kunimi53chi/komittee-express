@@ -1,7 +1,6 @@
 ---
 title: "分散SNS萬本 vol.1 readme"
 date: 2019-04-24T18:57:59+09:00
-thumbnail: "images/any-article-name/any-picture.png"
 tags: [ "distributed_sns" ]
 draft: false
 toc: true
