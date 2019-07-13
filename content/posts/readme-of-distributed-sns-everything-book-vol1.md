@@ -8,6 +8,21 @@ toc: true
 
 [分散SNS萬本 vol.1](https://connpass.com/event/115011/)をC96夏コミで頒布する算段でスケジュールを立てております。同人ソフトのジャンルコードで応募しているので、当選したら2019/08/12に頒布します。しなくても2019/08/12に頒布します。電子版も弊BOOTHで頒布予定です。
 
+## （追記）コミックマーケットC96に受かりました。
+
+<blockquote class="twitter-tweet" data-cards="hidden" data-lang="ja"><p lang="ja" dir="ltr">あなたのサークル「Blowing」は、コミックマーケット96で「月曜日南地区 &quot;リ &quot;　27a」に配置されました！コミケWebカタログにてサークル情報ページ公開中です！ <a href="https://t.co/HNbTdrb02T">https://t.co/HNbTdrb02T</a> <a href="https://twitter.com/hashtag/C96WebCatalog?src=hash&amp;ref_src=twsrc%5Etfw">#C96WebCatalog</a></p>&mdash; サークル「Blowing」@C96月-南リ27a (@circleblowing) <a href="https://twitter.com/circleblowing/status/1149850385030373377?ref_src=twsrc%5Etfw">2019年7月13日</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+というわけで、**C96の4日目、同人ソフト島にて頒布を行います。**南３・４ホールの左上あたりですね。左上ってなんだ。
+
+{{< figure src=images/readme-of-distributed-sns-everything-book-vol1/49faf894d63f442c079481229f48ce5f.png" title="C96 Blowing 頒布スペース" class="center" >}}
+
+表紙についてですが、サークルカットが割と気に入っているので、これをB5に拡大した感じで行きたいところです。
+
+**部数どうしましょっか！！！70部くらいでいいですか！！！**
+
+あと、電子書籍用のなんかコード的なあれも用意予定です。
+
 ## ネタは熱いうちに打ち出せ
 
 相変わらずコミケは当選率はそれほどよくないです。なので落選する可能性は十分あるわけですが、落選したことでアウトプットが止まってしまうのは良くないと思います。**分散SNSの世界は日進月歩です。**NextcloudがActivityPubに対応したり、Mastodonプロジェクトに企業が出資したり、KeybaseがMastodonに合わせてきたりしており、確実にFediverseは拡大しています。2017年4月にMastodonがブームになってから（ある種のビッグバンでしょうか）、様々なことが変わっておりますが、大多数の中央集権SNSを安全だと思っている民にとってこれらの動きは全く周知されていないことでしょう。あるいは、周知されても感知できていないかもしれません。
@@ -27,16 +42,11 @@ toc: true
 | 15日前   | 2019/07/28 | 早割入稿（20～30％の割引があるの！金がないので許して）       |
 | 当日     | 2019/08/12 | 印刷会社に本を会場に配送してもらう                           |
 
-イベントに落選した場合は、当日にPDFが出来上がっていればいいので、2週間ほど締め切りを後ろにずらすことができるでしょう。
-
 ## 技術書同人誌博覧会というオンリーイベントを検知
 
 ところで、今日Twitterを見ていたら[『技術書同人誌博覧会』](https://gishohaku.dev/)というオンリーイベントがあることを知りました。一昨日からサークル募集が開始されたのですが、21時間で枠が埋まるという事態となり、僕が検知する前に募集が終わってしまいました。
 
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">技術書同人誌博覧会、サークル参加申込、全ての枠が埋まったようです、24時間経ってないよね？w<a href="https://twitter.com/hashtag/%E6%8A%80%E6%9B%B8%E5%8D%9A?src=hash&amp;ref_src=twsrc%5Etfw">#技書博</a>  <a href="https://twitter.com/hashtag/%E4%BA%88%E6%83%B3%E5%A4%96?src=hash&amp;ref_src=twsrc%5Etfw">#予想外</a>  <a href="https://twitter.com/hashtag/%E7%88%86%E9%80%9F?src=hash&amp;ref_src=twsrc%5Etfw">#爆速</a> <a href="https://t.co/iy0QX5Eo4L">https://t.co/iy0QX5Eo4L</a></p>&mdash; さっぴー川原 🍶 ㍻31/4/30 平成最後のLT大会＆パーティ開催 (@sapi_kawahara) <a href="https://twitter.com/sapi_kawahara/status/1120902018791395329?ref_src=twsrc%5Etfw">2019年4月24日</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-キャンセル待ち枠があるそうなので狙っては見ますが、チャンスは薄そうです。**もし当選したら締め切りがさらに2週間前に迫りますね。**ほひ～。受かったらまた告知します。
+技術書典以外にも、各地で小さめの技術同人誌即売会が発足しているようです。そのほうにもアンテナ広げて、いけそうなら参加してみたいところ。
 
 ## 各執筆者のテーマについて
 
@@ -46,3 +56,15 @@ toc: true
 
 - Fediverse Communication Design
 - 独自おひとりさまAPサービス実装における野望
+
+### mimikun
+
+- Writefreelyについて軽く紹介していく
+
+### S.H.
+
+- AWS lamndaで作るサーバーレス Mastodon Bot
+
+### Yoheiづほ
+
+- Pixelfedについて
