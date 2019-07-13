@@ -15,7 +15,7 @@ toc: true
 
 というわけで、**C96の4日目、同人ソフト島にて頒布を行います。**南３・４ホールの左上あたりですね。左上ってなんだ。
 
-{{< figure src=images/readme-of-distributed-sns-everything-book-vol1/49faf894d63f442c079481229f48ce5f.png" title="C96 Blowing 頒布スペース" class="center" >}}
+{{< figure src="/images/readme-of-distributed-sns-everything-book-vol1/49faf894d63f442c079481229f48ce5f.png" title="C96 Blowing 頒布スペース" class="center" >}}
 
 表紙についてですが、サークルカットが割と気に入っているので、これをB5に拡大した感じで行きたいところです。
 
