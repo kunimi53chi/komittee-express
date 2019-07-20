@@ -51,24 +51,24 @@ toc: true
 
 ※この項目は執筆者の方針が決まり次第、更新される予定があります。僕以外の執筆者は敬称略。
 
-### 国見小道
+### [**国見小道**](https://pl.komittee.net/kunimi53chi)
 
 - Fediverse Communication Design
 - 独自おひとりさまAPサービス実装における野望
 
-### mimikun
+### [**mimikun**](https://mstdn.mimikun.jp/@mimikun)
 
 - Writefreelyについて軽く紹介していく
 
-### S.H.
+### [**S.H.**](https://gamelinks007.net/@S_H_)
 
 - AWS lamndaで作るサーバーレス Mastodon Bot
 
-### Yoheiづほ
+### [**Yoheiづほ**](https://mstdn.y-zu.org/@Yohei_Zuho)
 
 - Pixelfedについて
 
-### Cutls
+### [**Cutls**](https://cutls.com/@Cutls)
 
 - Fediverseにおける検索
 - 分散SNSのお財布事情
