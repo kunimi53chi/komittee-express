@@ -54,7 +54,6 @@ toc: true
 ### [**国見小道**](https://pl.komittee.net/kunimi53chi)
 
 - Fediverse Communication Design
-- 独自おひとりさまAPサービス実装における野望
 
 ### [**mimikun**](https://mstdn.mimikun.jp/@mimikun)
 
