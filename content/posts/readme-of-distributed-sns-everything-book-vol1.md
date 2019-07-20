@@ -12,7 +12,6 @@ toc: true
 
 <blockquote class="twitter-tweet" data-cards="hidden" data-lang="ja"><p lang="ja" dir="ltr">あなたのサークル「Blowing」は、コミックマーケット96で「月曜日南地区 &quot;リ &quot;　27a」に配置されました！コミケWebカタログにてサークル情報ページ公開中です！ <a href="https://t.co/HNbTdrb02T">https://t.co/HNbTdrb02T</a> <a href="https://twitter.com/hashtag/C96WebCatalog?src=hash&amp;ref_src=twsrc%5Etfw">#C96WebCatalog</a></p>&mdash; サークル「Blowing」@C96月-南リ27a (@circleblowing) <a href="https://twitter.com/circleblowing/status/1149850385030373377?ref_src=twsrc%5Etfw">2019年7月13日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 というわけで、**C96の4日目、同人ソフト島にて頒布を行います。**南３・４ホールの左上あたりですね。左上ってなんだ。
 
 {{< figure src="/images/readme-of-distributed-sns-everything-book-vol1/49faf894d63f442c079481229f48ce5f.png" title="C96 Blowing 頒布スペース" class="center" >}}
@@ -68,3 +67,8 @@ toc: true
 ### Yoheiづほ
 
 - Pixelfedについて
+
+### Cutls
+
+- Fediverseにおける検索
+- 分散SNSのお財布事情
