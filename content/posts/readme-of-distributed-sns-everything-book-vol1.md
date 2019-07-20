@@ -63,10 +63,6 @@ toc: true
 
 - AWS lamndaで作るサーバーレス Mastodon Bot
 
-### [**Yoheiづほ**](https://mstdn.y-zu.org/@Yohei_Zuho)
-
-- Pixelfedについて
-
 ### [**Cutls**](https://cutls.com/@Cutls)
 
 - Fediverseにおける検索
