@@ -61,7 +61,7 @@ toc: true
 
 ### [**S.H.**](https://gamelinks007.net/@S_H_)
 
-- AWS lamndaで作るサーバーレス Mastodon Bot
+- AWS lambdaで作るサーバーレス Mastodon Bot
 
 ### [**Cutls**](https://cutls.com/@Cutls)
 
