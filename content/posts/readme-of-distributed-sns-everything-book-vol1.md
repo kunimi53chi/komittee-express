@@ -1,7 +1,7 @@
 ---
 title: "分散SNS萬本 vol.1 readme"
 date: 2019-04-24T18:57:59+09:00
-tags: [ "distributed_sns" ]
+tags: [ "distributed_sns", "doujin" ]
 draft: false
 toc: true
 ---
