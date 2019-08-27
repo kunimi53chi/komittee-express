@@ -1,15 +1,18 @@
 ---
 title: "分散SNS萬本 vol.1 物理書籍版再販・委託について"
 date: 2019-08-27T22:54:29+09:00
-thumbnail: "images/reselling-distributed-sns-everything-book-vol1-physical-ver/コミケサクカC97.png"
+thumbnail: "images/reselling-distributed-sns-everything-book-vol1-physical-ver/s_20190812_075124.jpg"
 tags: [ "distributed_sns", "doujin" ]
-draft: true
+draft: false
 toc: true
 ---
 
 ## C96での頒布結果
 **物理本80冊（+4冊サービス）持ち込みまして、84冊売れました。 物理版が完売しちゃいました。ついでに売り切れ予備のためのダウンロードカードが7枚売れました。** 売った本人が一番驚いてます。お前インターネットの片隅にしか認識されてない分散SNS本やぞ…？80冊売れる想定なんてできないやん…
 一応売れたことについて多少のCheckをしておかないと次に繋がらないので振り返りなどを。
+
+{{< figure src="/images/reselling-distributed-sns-everything-book-vol1-physical-ver/s_20190812_075124.jpg" title="サークルスペースでこれがお待ちしててテンション上がった" class="center" >}}
+
 ### なぜ80冊が完売？
 弊サークルはジャンル『同人ソフト』で登録し、4日目に出展しまして、南リ27aというスペースで頒布してました。コミックマーケット96は東京オリンピックのあおりを受けて4日間開催だったり普段使われない南棟が東棟の代わりに使われたりしました。
 
@@ -17,12 +20,18 @@ toc: true
 
 また、南3・4地区については空調が素晴らしくて、コミケに参加してるとは思えないほど快適でした。湿気も取り除かれていて、まるで僕の好きな秋の気候がそこにありました。なので、同人ソフト島を回る皆さんが長居できるような環境だったわけで、落ち着いて本をお手にとって読んでいただけるチャンスがあったのかなとは思います。
 
+{{< figure src="/images/reselling-distributed-sns-everything-book-vol1-physical-ver/s_20190812_084428.jpg" title="同人ソフト島でポスター用意するととても目立ってくれる" class="center" >}}
+
 当日売り子を手伝っていただいた、じぇいさん（ActivityPub Actor: [@souji@mstdn.jp](https://mstdn.jp/@souji)）の働きも目覚ましいものがありました。じぇいさんはMastodon歴が長くて（それでも2年ほどではあるんですが）、フォローもアホみたいに多いのでホームがやばいことになってるだろうと思いきや、リモートサーバーの雰囲気ややり取りも掴んでいただいており、分散SNSのトピック（ex: 漫画村管理者のアカウントが登録されていたGabの参入、[Data Transfer ProjectにMastodonが含まれていること](https://datatransferproject.dev/)）などもしっかりとチェックされていて、スペースにいらっしゃった方への応対もばっちりとされてました。その点についてはいままで仕事してやってたことが活かせていたそうで、素直にすごいなあと思いました。
+
+{{< figure src="/images/reselling-distributed-sns-everything-book-vol1-physical-ver/s_20190812_173020.jpg" title="完売の乾杯" class="center" >}}
 
 ### 振り返ってみたけど、なんもわからん
 ですが、それはそれとして、そもそものテーマがどニッチな『分散SNS』であり、さらにタイトルにはMastodonというキーワードをあえて排しておりましたので、現地での流入は期待をしていなかったのですが、まさかの相当数な流入をいただきまして、本当にありがたい限りです。
 
 現場での体感としては、Fediverseから駆けつけてくれてきた人は4～5割という認識です。20人くらいは、アカウントと一致した感じがありました。もう20人くらいは、サークルスペースに直に突っ込んですぐ買うムーヴをしていただけたので、「これ事前チェックしていただいてる方だな」と感じました（Fedからかどうかは不明ですが）。しかし、残りの40人くらい、君たちどこから現れたんや。どこからや！！
+
+{{< figure src="/images/reselling-distributed-sns-everything-book-vol1-physical-ver/s_20190812_174021.jpg" title="突発で向かった大崎の九州料理屋めっさうまかった" class="center" >}}
 
 ## とにかく、再販します
 ともかく、想定より頒布されたのは事実ですので、 **物理版の再販することを決定しました。** 通販サイトはBOOTHを利用します。
@@ -41,6 +50,8 @@ toc: true
 **再販部数は100部です。** これはBOOTHでの頒布だけでなく、[コミックマーケット97](https://www.comiket.co.jp/)や[第2回 技術書同人誌博覧会](https://gishohaku.dev/)で頒布する分も含まれております。そして、この物理版ではC96と同じようにダウンロードカードが同梱されます。
 
 おちんぎんがチャージされるのが毎月末の状態でありますので、チャージされ次第、同様のメニューで日光企画さんのところに再入稿しまして、在庫を自宅で抱えていこうかという構えです。部屋片付けなきゃ…
+
+{{< figure src="/images/reselling-distributed-sns-everything-book-vol1-physical-ver/s_20190817_130015.jpg" title="誕生日祝いで他人の金で焼肉をいただきました。Fediverseの皆様ありがとう頑張ります" class="center" >}}
 
 ## C97 & 技書博エントリー。新刊出します
 先ほどサクッと書きましたが、12月の同人即売会への参加に向けて、[コミックマーケット97](https://www.comiket.co.jp/)と[第2回 技術書同人誌博覧会](https://gishohaku.dev/)にエントリーを致しました。特に第2回技書博については先着順なので、おそらく通るだろうと思います。
