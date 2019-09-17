@@ -6,7 +6,7 @@ hasCJKLanguage = true
 enableGitInfo = true
 
 [params]
-  description = "ITエンジニアと演奏家の、二足の草鞋を履こうとする男のブログ"
+  description = "ITエンジニアと演奏家の、二足の草鞋を履こうとする17JKのブログ"
 
 [taxonomies]
   tag = "tags"
@@ -14,6 +14,6 @@ enableGitInfo = true
 [params.author]
   thumbnail = "images/author.jpg"
   name = "国見小道"
-  description = "<p>フリーランス1年生</p>"
+  description = "<p>フリーランス3年生</p>"
   twitter = "https://twitter.com/kunimi_komichi"
   github = "https://github.com/kunimi53chi"
