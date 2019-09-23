@@ -1,5 +1,5 @@
 ---
-title: "2 「なんで公募型アンソロジー？」"
+title: "2 「なんで公募型アンソロジー？」～ 技術同人誌を公募型アンソロジーで出すまでにやったこと"
 date: 2019-09-23T10:54:47+09:00
 thumbnail: "images/reselling-distributed-sns-everything-book-vol1-physical-ver/s_20190812_084428.jpg"
 tags: [ "doujin" ]
@@ -35,21 +35,3 @@ IT技術を取り扱う僕としては、内輪でよく知られてるものを
 「寄稿した同人誌が、黒字になったら？」
 
  Imagine....
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-​            
