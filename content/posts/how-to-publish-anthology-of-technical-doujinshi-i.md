@@ -65,7 +65,7 @@ pixivのサービスとして、[**BOOTH**](https://booth.pm/ja)があります�
 
 二次元コード発行からヤマト受付に渡すまでは、すぐ慣れることができると思います。やることが匿名配送のおかげでとってもシンプルになっているので、**配送のルーチンワークも苦痛になりません。**皆さん利用してみましょう。
 
-  {{< figure src="/images/how-to-publish-anthology-of-technical-doujinshi/s_20191019_132955.jpg" title="すぐ配達できるように梱包サンプルを作っている" class="center" >}}   
+  {{< figure src="/images/how-to-publish-anthology-of-technical-doujinshi/s_20191019_132955.jpg" class="center" title="すぐ配達できるように梱包サンプルを作っている" >}}   
 
 ## pictSPACE匿名配送を使って著者陣に物理献本をする
 

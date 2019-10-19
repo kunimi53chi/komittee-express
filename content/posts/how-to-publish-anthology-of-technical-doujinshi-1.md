@@ -11,13 +11,23 @@ toc: true
 
 さて、次回の技書博（当選）・C97（待ち）までにまた文章をたらふく書かないといけないのですが、それまでブログを更新しないというのはいささか寂しいので、C96で出した分散SNS萬本がどのようにしてできたかをちまちま書いていきたいなあと思います。一応考えている記事内容を目次的にここで出しておきます。
 
-1. アンソロジーってなんですか？
-2. なんで公募型アンソロジー？
+---
+
+**メイン**
+
+1. [アンソロジーってなんですか？]({{<ref "how-to-publish-anthology-of-technical-doujinshi-1.md">}})
+2. [なんで公募型アンソロジー？]({{<ref "how-to-publish-anthology-of-technical-doujinshi-2.md">}})
 3. お金の扱いどうする？
 4. どうやって著者をあつめよう？
 5. 主催者、お前は原稿の柱になれ
 6. Re:VIEW Starter + GitLabで無料プライベート合同
 7. and more...
+
+**コラム**
+
+1. [BOOTH自宅配送とpictSPACEによる献本配送]({{<ref "how-to-publish-anthology-of-technical-doujinshi-i.md">}})
+
+---
 
 それでは、「アンソロジーとは？」から始めていきます。
 
