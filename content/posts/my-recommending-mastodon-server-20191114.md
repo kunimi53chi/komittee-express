@@ -257,7 +257,7 @@ backspace.fmがガジェット系を扱うPodcastなので、それに伴って�
 
 「けものフレンズ」のテーマサーバーです。べスフレ、ボカロ丼、ぐる丼のようにLTL上でのコミュニケーションが盛んです。雪餅リレーにも参加しており、雪餅リレーに所属しているサーバーであれば、どのように会話がされているのかをリモートサーバーから眺めることができます。覗いてみての感想ですが、空気感としてはべスフレに近い感じがあります。
 
-### [あんばとどん under-bank.blue](https://under-bank.blue/about)
+### [UNDER-BANK.blue](https://under-bank.blue/about)
 
 https://under-bank.blue/about
 
@@ -265,7 +265,7 @@ https://under-bank.blue/about
 
 サーバー管理者のxanacさん [https://under-bank.blue/@rk_asylum](https://under-bank.blue/%40rk_asylum) は個人的には「Fediverseでフォローすべきユーザー」の一人として強く推奨する人です。なぜかといいますと連合しているサーバーについてもつぶさに観察してはリアクションを出しており、投稿もいい感じだからです。
 
-サーバーとしての性格としてはヒーローバンクから関連して同人系の話題が多い感じがあります。ヒロ銀もオンリーイベントが第8回目の参加が決定しており、長く愛されている作品であることを感じさせます。
+サーバーとしての性格としてはヒーローバンクから関連して同人系の話題が多い感じがあります。ヒーローバンクもオンリーイベントが第8回目の参加が決定しており、長く愛されている作品であることを感じさせます。
 
 ### [社畜丼 mstdn-workers.com](https://mstdn-workers.com/about)
 
@@ -275,7 +275,7 @@ https://mstdn-workers.com/about
 
 運営者がITエンジニアの漫画原作をやっているところもあり、ユーザーにはITエンジニアが多いんじゃないかと思います。LTL中心かHTL中心かはちょっとわかりません。
 
-### [mstdn-bike](https://mstdn-bike.net/about)
+### [バイク鯖 mstdn-bike.net](https://mstdn-bike.net/about)
 
 https://mstdn-bike.net/about
 
@@ -303,7 +303,7 @@ https://iwatedon.net/about
 
 管理人のあくあーらさんは食事の写真を上げるのをテーマとした「gochisou.photo」というサーバーも運営しており、個人的には飯テロ方面の人という認識でいますが、たまに岩手情報が発信されます。汎用サーバー的な空気感を纏っているイメージです。
 
-### [mini 4wd don mstdn.mini4wd-engineer.com](https://mstdn.mini4wd-engineer.com/about/)
+### [ミニ四駆DON mstdn.mini4wd-engineer.com](https://mstdn.mini4wd-engineer.com/about/)
 
 [https://mstdn.mini4wd-engineer.com/about/](https://mstdn.mini4wd-engineer.com/about/more)
 
