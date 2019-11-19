@@ -433,7 +433,7 @@ v3.0.0から、Mastodonでは「フォロワーごとお引越し」ができる
 
 ## しんでしまったサーバー   
 
-数多くのMastodonサーバーが立ち上がり、数多くのMastodonサーバーがクローズしました。これはfediverse.netoworkのClosed Instancesから抽出した結果のため言語は絞っておりませんが、MastodonのバージョンでClosedなサーバーの最終バージョンを列挙します。
+数多くのMastodonサーバーが立ち上がり、数多くのMastodonサーバーがクローズしました。これはfediverse.networkのClosed Instancesから抽出した結果のため言語は絞っておりませんが、MastodonのバージョンでClosedなサーバーの最終バージョンを列挙します。
 
 ---
 
