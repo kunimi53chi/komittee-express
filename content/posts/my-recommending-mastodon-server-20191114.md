@@ -431,15 +431,11 @@ v3.0.0から、Mastodonでは「フォロワーごとお引越し」ができる
 
 （searched by fediverse.network）
 
-## しんでしまったサーバー   
+## サービス終了したサーバー   
 
 数多くのMastodonサーバーが立ち上がり、数多くのMastodonサーバーがクローズしました。これはfediverse.networkのClosed Instancesから抽出した結果のため言語は絞っておりませんが、MastodonのバージョンでClosedなサーバーの最終バージョンを列挙します。
 
----
-
-#### Column: MastodonサーバーClosed内訳
-
-
+#### MastodonサーバーClosed内訳
 
 | 閉じた時点でのバージョン | 対象バージョン期間      | 閉じられたサーバー数 |
 | ------------------------ | ----------------------- | -------------------- |
