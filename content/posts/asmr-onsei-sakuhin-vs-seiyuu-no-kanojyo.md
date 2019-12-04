@@ -1,14 +1,14 @@
 ---
-title: "【レビュー】音声作品 vs 声優のカノジョ　～わたしの声じゃダメですか？～"
+title: "【レビュー】（R18）音声作品 vs 声優のカノジョ　～わたしの声じゃダメですか？～"
 date: 2019-12-04T22:37:34+09:00
 tags: [ "doujin", "advent_calendar_2019" ]
 draft: false
-toc: true
+toc: false
 ---
 
 この記事は[DLsiteどっとcom Advent Calendar 2019](https://adventar.org/calendars/3918)寄稿記事です。
 
-**音声作品 vs 声優のカノジョ　～わたしの声じゃダメですか？～**
+**音声作品 vs 声優のカノジョ　～わたしの声じゃダメですか？～**　※R18
 
 https://www.dlsite.com/maniax/work/=/product_id/RJ257006.html
 
