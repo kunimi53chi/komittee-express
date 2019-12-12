@@ -1,6 +1,7 @@
 ---
 title: "【レビュー】（R18）音声作品 vs 声優のカノジョ　～わたしの声じゃダメですか？～"
 date: 2019-12-04T22:37:34+09:00
+thumbnail: "images/default.jpg"
 tags: [ "asmr", "doujin", "advent_calendar_2019" ]
 draft: false
 toc: false
