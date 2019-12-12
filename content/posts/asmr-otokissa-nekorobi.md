@@ -13,9 +13,13 @@ toc: false
 
 本日ご紹介するのはこちら。シロクマの嫁「音喫茶ねころび」シリーズです。
 
-<a rel="noopener" href="https://www.dlsite.com/home/dlaf/=/t/n/link/work/aid/kunimi53chi/id/RJ243515.html" target="_blank">【録り下ろし】音喫茶ねころび、体験チケットコース【癒しの1時間】</a>
+#### 無料版のほう
 
-<a rel="noopener" href="https://www.dlsite.com/home/dlaf/=/t/n/link/work/aid/kunimi53chi/id/RJ239850.html" target="_blank">音喫茶ねころび</a>
+<a rel="noopener" href="https://www.dlsite.com/home/dlaf/=/t/i/link/work/aid/kunimi53chi/id/RJ243515.html" target="_blank"><img itemprop="image" src="//img.dlsite.jp/modpub/images2/work/doujin/RJ244000/RJ243515_img_main.jpg" alt="【録り下ろし】音喫茶ねころび、体験チケットコース【癒しの1時間】" title="【録り下ろし】音喫茶ねころび、体験チケットコース【癒しの1時間】" border="0" class="target_type" /></a>
+
+#### SUPER LONG ASMR
+
+<a rel="noopener" href="https://www.dlsite.com/home/dlaf/=/t/i/link/work/aid/kunimi53chi/id/RJ239850.html" target="_blank"><img itemprop="image" src="//img.dlsite.jp/modpub/images2/work/doujin/RJ240000/RJ239850_img_main.jpg" alt="音喫茶ねころび" title="音喫茶ねころび" border="0" class="target_type" /></a>
 
 すさまじい再生時間に震えが止まりません。
 
