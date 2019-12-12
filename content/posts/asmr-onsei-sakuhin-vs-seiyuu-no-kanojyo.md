@@ -10,9 +10,9 @@ toc: false
 
 **音声作品 vs 声優のカノジョ　～わたしの声じゃダメですか？～**　※R18
 
-https://www.dlsite.com/maniax/work/=/product_id/RJ257006.html
+<a rel="noopener" href="https://www.dlsite.com/maniax/dlaf/=/t/t/link/work/aid/kunimi53chi/id/RJ257006.html" target="_blank"><img src="//img.dlsite.jp/modpub/images2/work/doujin/RJ258000/RJ257006_img_sam.jpg" alt="音声作品 vs 声優のカノジョ ～わたしの声じゃダメですか?～" title="音声作品 vs 声優のカノジョ ～わたしの声じゃダメですか?～" border="0" class="target_type" /></a>
 
-の紹介でございます。（ブログ用のパーツどこにあるんや）
+の紹介でございます。R18なのでサムネイル画像で置いておきます。
 
 ## ここすき
 
