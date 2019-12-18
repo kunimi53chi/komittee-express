@@ -7,7 +7,7 @@ draft: false
 toc: true
 ---
 
-こんばんは。国見小道です。アドベントカレンダーのある12月は無限にキーボードに手を置いて文字を入力している気がします。この記事は[Fedibird Advent Calendar 2019](https://adventar.org/calendars/3903)　19日目の記事になります。前回、18日目はtakimuraさんの「[**Fediverseとは何なのか、そしてFedibirdという新しい分散SNSの形]**(https://note.com/cv_k/n/n502a40f9603d)」でした。
+こんばんは。国見小道です。アドベントカレンダーのある12月は無限にキーボードに手を置いて文字を入力している気がします。この記事は[Fedibird Advent Calendar 2019](https://adventar.org/calendars/3903)　19日目の記事になります。前回、18日目はtakimuraさんの「[**Fediverseとは何なのか、そしてFedibirdという新しい分散SNSの形**](https://note.com/cv_k/n/n502a40f9603d)」でした。
 
 なんかカレンダーの記事見てるとみんな自己紹介してるんですけど、僕は必要ないですよね？今はPleromaを自宅として構える17歳の女子高生と申します。敷波改二。 https://pl.komittee.net/kunimi53chi
 
@@ -62,7 +62,7 @@ Fedibirdは「LTLが存在しない」特徴がとてもインパクトのある
 >
 > https://fedibird.com/@noellabo/102636234320913900
 
-現在のMastodonではLTLを起点にフォローを広げていくのが定石な感じではあります。Fedibird自身もドメイン購読という「LTLの吸」を行っております。LTL破壊論者の17jkでも現在のMastodonの機能セットではこうなるだろうなとやや諦めムードです（おひとりさま独自AP実装つくらなきゃ・・・）。
+現在のMastodonではLTLを起点にフォローを広げていくのが定石な感じではあります。Fedibird自身もドメイン購読という「LTLの吸引」を行っております。LTL破壊論者の17jkでも現在のMastodonの機能セットではこうなるだろうなとやや諦めムードです（おひとりさま独自AP実装つくらなきゃ・・・）。
 
 しかし幸いながら、Fedibirdは連合を志向しているため、FTL（連合タイムライン）が豊かになっています（たぶん）。**この豊かなFTLに「プロフィールディレクトリ」機能を掛け合わせたらどうなるでしょうか。**多分最高になると思うんですよね。知らんけど（なぜなら僕はPleromaのおひとりさまサーバーにいるので）。
 
