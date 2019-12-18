@@ -1,7 +1,7 @@
 ---
 title: "Mastodon v3.0.0から追加されたProfile Directoryを活用しよう"
 date: 2019-12-19T00:38:48+09:00
-thumbnail: "images/use-the-profile-directry-in-fedibird/any-picture.png"
+thumbnail: "images/use-the-profile-directry-in-fedibird/images/use-the-profile-directry-in-fedibird/profile-directory-new-and-federated.png"
 tags: [ "mastodon", "advent_calendar_2019" ]
 draft: false
 toc: true
