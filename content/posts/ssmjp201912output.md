@@ -17,6 +17,10 @@ ssmjpの皆様、初めまして。国見小道と申します。又の名をOut
 
 ## Output枠としてのOutput
 
+{{< figure src="/images/ssmjp201912output/ssmjp-logo.png" class="center" title="ホント、いい標語！" >}}
+
+まずこれは何の記事なのかというと、[こちら](https://ssmjp.connpass.com/event/155381/)で行われたssmjpのLT祭りの感想および発表の情景を書き記したものです。
+
 Output枠というのがいまいちどういうものかわかっていなかったんですが、多分Twitterで `#ssmjp` つけてLT感想をライブ的に投稿するようにしたほうが良かったのではないかと思いつつ、もうそれをするには時すでに遅しですので、物量でぶん殴ることにします。
 
 ## 完成度たけーなオイ
