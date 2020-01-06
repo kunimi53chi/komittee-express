@@ -221,7 +221,7 @@ PowerCoreについて調べてみた。BasicライセンスとFullライセン�
 
 ### わっほー☆さん「一般のご家庭にある自作PCとWin10Proでできる数10TB〜」
 
-登壇者によるスライドはこちらです：（執筆現在でNot Found）
+登壇者によるスライドはこちらです：https://docs.google.com/presentation/d/e/2PACX-1vTuYsBr1ZNR9H_A8NNkol95HbllJwE1Zr1eOX0HvbptJQc80e7mMSQsPYH7GwS-dXVqLb7pBbaxS2he/pub?start=false&loop=false&delayms=5000&slide=id.p
 
 データ、13.2TBを所持してます。Western Digital Redを主に使用しています。3.5inch HDDを16台いける。1台3000円。これを論理的に接続する。記憶域プール機能をつかって連結する。合計で50TBが接続される。双方向ミラー・シンプロビジョニング・（重要）記憶域サイズ63.0TiB。後で増やそうとするとクラスタ数上限が2^32-1にやられる。
 
