@@ -1,7 +1,7 @@
 ---
 title: "ノイズキャンセリングヘッドホンとイヤホンを組み合わせて『防音室』を纏おう"
 date: 2020-02-03T00:03:47+09:00
-thumbnail: "images/any-article-name/any-picture.png"
+thumbnail: "images/pair-noise-cancelling-headphones-with-earphones/wh-1000xm3.png"
 tags: [ "lifehack" ]
 draft: false
 toc: true
