@@ -52,7 +52,7 @@ Twitterは幸福が義務であるサービスに成り下がったため、宣�
 - [SoundCloud](https://soundcloud.com/user-683766299)
 - [ニコニコ動画アカウント](http://www.nicovideo.jp/user/4257267)
 - [ニコニコ動画コミュニティ](http://com.nicovideo.jp/community/co2291982)
-- [Gmail](kunimi25live@gmail.com)
+- Gmail: `kunimi25live@gmail.com`
 - [Mixi](http://mixi.jp/show_profile.pl?id=65392267&level=4)
 - [サウナイキタイ](https://sauna-ikitai.com/saunners/2516)
 
